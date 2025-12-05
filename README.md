@@ -5,10 +5,10 @@
 <br />
 
 <p align="center">
-    <a href="mailto:[Your Email]">
+    <a href="mailto:[kacemamine.elhajji@gmail.com]">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
     </a>
-    <a href="[Your LinkedIn URL or any other relevant social media]">
+    <a href="(https://www.linkedin.com/in/kacem-amine-elhajji-a24a9938b/)">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
     </a>
     <a href="[Your Portfolio URL (optional)]">
@@ -66,3 +66,4 @@ Here's a quick look at some of the key problem sets and projects I've tackled:
     <br/>
     <a href="https://cs50.harvard.edu/x/2024/">Start your journey!</a>
 </h4>
+<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="200" style="max-width: 100%; height: auto; max-height: 200px; display: inline-block;" data--h-bstatus="0OBSERVED" class="hb-blur-temp" data-target="animated-image.originalImage">
