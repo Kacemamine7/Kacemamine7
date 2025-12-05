@@ -24,7 +24,8 @@ I'm a high school student currently diving into the world of computer science th
 
 My main focus right now is mastering the fundamentals, from **C** and **Python** to **web development**.
 
-<a href="https://cs50.harvard.edu/x/2024/" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Harvard_shield_with_slogan.svg" width="150" height="150" alt="Harvard CS50 Logo" /></a>
+<a href="https://cs50.harvard.edu/x/2024/" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Harvard_shield_with_slogan.svg" width="150" height="150" alt="<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e572468b-93bd-4fbd-985c-03411e6f243f" />
+" /></a>
 
 ## 🚀 My CS50 Journey
 
